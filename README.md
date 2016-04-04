@@ -57,3 +57,12 @@ Cool resources gathered from a range of sources
 
  - How to be a programmer https://github.com/braydie/HowToBeAProgrammer
  - Free Code Camp https://github.com/FreeCodeCamp/FreeCodeCamp
+
+### Developer Blog of friends and colleagues
+
+ - Better Programmer http://aestheticio.com/
+ 
+### Books
+  - Scala for the Impatient
+    - http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
+    - http://horstmann.com/scala/
