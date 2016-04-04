@@ -34,50 +34,9 @@ Cool resources gathered from a range of sources
  
 ### Awesome lists
 
- - A list of Free programming books and more https://github.com/vhf/free-programming-books
+ - Free programming books and more https://github.com/vhf/free-programming-books
  - Awesome awesomes https://github.com/fleveque/awesome-awesomes
  - Awesome Scala https://github.com/lauris/awesome-scala
- - The Neophyte's Guide to Scala https://leanpub.com/theneophytesguidetoscala
- 
-### Cloud Providers
-
- - Google Compute Engine https://cloud.google.com/
- - AWS https://aws.amazon.com/free/
- - OpenShift https://www.openshift.com/
- - Heroku https://www.heroku.com/home
- - Microsoft Azure https://azure.microsoft.com
- - Digital Ocean https://www.digitalocean.com/
- 
-### Challenges
-
- - Project Euler https://projecteuler.net/
- - CodeFights https://codefights.com/
- - Ninety-Nine Scala Problems http://aperiodic.net/phil/scala/s-99/
- 
-### Courses
-
- - Functional Programming Principles in Scala https://www.coursera.org/course/progfun
- - Principles of Reactive Programming https://www.coursera.org/course/reactive
- - Algorithms, Part 1 https://www.coursera.org/course/algs4partI
- - Structure and Interpretation of Computer Program [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science]( http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
- - List of Algorithms http://www.scriptol.com/programming/list-algorithms.php
- 
-### Learn to code
-
- - How to be a programmer https://github.com/braydie/HowToBeAProgrammer
- - Free Code Camp https://github.com/FreeCodeCamp/FreeCodeCamp
-
-### Developer Blog of friends and colleagues
-
- - Better Programmer http://aestheticio.com/
- 
-### Books
-
- - Scala for the Impatient
-   - http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
-   - http://horstmann.com/scala/
- - Effective Scala http://twitter.github.io/effectivescala/
- - Cracking the Coding Interview https://www.careercup.com/book
 
 ### Patterns & Algorithms
 
@@ -89,13 +48,54 @@ Cool resources gathered from a range of sources
   - CQRS http://martinfowler.com/bliki/CQRS.html
   - Test Pyramid http://martinfowler.com/bliki/TestPyramid.html
   - Building Scala lists http://mauricio.github.io/2013/11/25/learning-scala-by-building-scala-lists.html
+ 
+### Concurrency
+  - Scala Actors
+    - http://doc.akka.io/docs/akka/2.4.3/scala/actors.html
+    - http://alvinalexander.com/scala/simple-scala-akka-actor-examples-hello-world-actors
+ 
+### Courses
+
+ - Functional Programming Principles in Scala https://www.coursera.org/course/progfun
+ - Principles of Reactive Programming https://www.coursera.org/course/reactive
+ - Algorithms, Part 1 https://www.coursera.org/course/algs4partI
+ - Structure and Interpretation of Computer Program [http://ocw.mit.edu/courses/...]( http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+ - List of Algorithms http://www.scriptol.com/programming/list-algorithms.php
+ 
+### Books & Series
+
+ - Scala for the Impatient
+   - http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
+   - http://horstmann.com/scala/
+ - Effective Scala http://twitter.github.io/effectivescala/
+ - Cracking the Coding Interview https://www.careercup.com/book
+ - The Neophyte's Guide to Scala https://leanpub.com/theneophytesguidetoscala
+ 
+### Learn to code
+
+ - How to be a programmer https://github.com/braydie/HowToBeAProgrammer
+ - Free Code Camp https://github.com/FreeCodeCamp/FreeCodeCamp
 
 ### Katas
 
   - TDD Kata 1 http://osherove.com/tdd-kata-1/
   - Scala Tutorial Through Katas http://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
  
-### Concurrency
-  - Scala Actors
-    - http://doc.akka.io/docs/akka/2.4.3/scala/actors.html
-    - http://alvinalexander.com/scala/simple-scala-akka-actor-examples-hello-world-actors
+### Challenges
+
+ - Project Euler https://projecteuler.net/
+ - CodeFights https://codefights.com/
+ - Ninety-Nine Scala Problems http://aperiodic.net/phil/scala/s-99/
+
+### Developer Blog of friends and colleagues
+
+ - Better Programmer http://aestheticio.com/
+ 
+### Cloud Providers
+
+ - Google Compute Engine https://cloud.google.com/
+ - AWS https://aws.amazon.com/free/
+ - OpenShift https://www.openshift.com/
+ - Heroku https://www.heroku.com/home
+ - Microsoft Azure https://azure.microsoft.com
+ - Digital Ocean https://www.digitalocean.com/
