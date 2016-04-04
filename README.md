@@ -52,6 +52,15 @@ Cool resources gathered from a range of sources
 
  - Project Euler https://projecteuler.net/
  - CodeFights https://codefights.com/
+ - Ninety-Nine Scala Problems http://aperiodic.net/phil/scala/s-99/
+ 
+### Courses
+
+ - Functional Programming Principles in Scala https://www.coursera.org/course/progfun
+ - Principles of Reactive Programming https://www.coursera.org/course/reactive
+ - Algorithms, Part 1 https://www.coursera.org/course/algs4partI
+ - Structure and Interpretation of Computer Program [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science]( http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+ - List of Algorithms http://www.scriptol.com/programming/list-algorithms.php
  
 ### Learn to code
 
@@ -63,6 +72,30 @@ Cool resources gathered from a range of sources
  - Better Programmer http://aestheticio.com/
  
 ### Books
-  - Scala for the Impatient
-    - http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
-    - http://horstmann.com/scala/
+
+ - Scala for the Impatient
+   - http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
+   - http://horstmann.com/scala/
+ - Effective Scala http://twitter.github.io/effectivescala/
+ - Cracking the Coding Interview https://www.careercup.com/book
+
+### Patterns & Algorithms
+
+  - Design Patterns in Scala https://pavelfatin.com/design-patterns-in-scala/
+  - Functional Design Patterns http://www.infoq.com/presentations/Functional-Design-Patterns
+  - Purely Functional Data Structures http://www.slideshare.net/vkostyukov/purely-functional-data-structures-in-scala-26175521
+  - Inversion of Control http://martinfowler.com/bliki/InversionOfControl.html
+  - Eradicating Non-Determinism in Tests http://martinfowler.com/articles/nonDeterminism.html
+  - CQRS http://martinfowler.com/bliki/CQRS.html
+  - Test Pyramid http://martinfowler.com/bliki/TestPyramid.html
+  - Building Scala lists http://mauricio.github.io/2013/11/25/learning-scala-by-building-scala-lists.html
+
+### Katas
+
+  - TDD Kata 1 http://osherove.com/tdd-kata-1/
+  - Scala Tutorial Through Katas http://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/
+ 
+### Concurrency
+  - Scala Actors
+    - http://doc.akka.io/docs/akka/2.4.3/scala/actors.html
+    - http://alvinalexander.com/scala/simple-scala-akka-actor-examples-hello-world-actors
